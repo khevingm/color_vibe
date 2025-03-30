@@ -2,7 +2,14 @@
   "name": "colorvibe",
   "displayName": "ColorVibe",
   "description": "",
-  "version": "0.0.7",
+  "repository": {
+    "url": "https://github.com/khevingm/color_vibe",
+    "directory": "colorvibe",
+    "type": "git"
+  },
+  "license": "MIT",
+  "publisher": "khevingm",
+  "version": "1.0.0",
   "engines": {
     "vscode": "^1.98.0"
   },
