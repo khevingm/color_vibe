@@ -1,7 +1,7 @@
 {
   "name": "colorvibe",
-  "displayName": "ColorVibe",
-  "description": "",
+  "displayName": "Color Vibe",
+  "description": "Personaliza los colores de las barras en VS Code.",
   "repository": {
     "url": "https://github.com/khevingm/color_vibe",
     "directory": "colorvibe",
@@ -14,6 +14,7 @@
     "vscode": "^1.98.0"
   },
   "categories": [
+    "Themes",
     "Other"
   ],
   "icon": "images/icon.png",
